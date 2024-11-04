@@ -15,9 +15,14 @@ I'm a **Full-stack Developer** specializing in front-end technologies. I bring i
 - **Others**: Git, GitHub, Figma
 
 ## 📊 GitHub Stats
-![Borhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=borhanrahi&show_icons=true&theme=default)
+![Borhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=borhanrahi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borhanrahi&layout=compact&theme=radical)
 
-## 📫 Connect with Me
+---
+
+## 🤝 Let's Connect!
+I'm always open to discussing new projects, collaborations, or opportunities to learn and grow. Feel free to reach out to me through any of the platforms below!
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/borhanrahi/) 
 [![X (Twitter)](https://img.shields.io/badge/-X-black?style=flat&logo=X&logoColor=white)](https://x.com/borhan_rahi)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/borhanrahi)
@@ -25,4 +30,4 @@ I'm a **Full-stack Developer** specializing in front-end technologies. I bring i
 
 ---
 
-I’m always open to new challenges and opportunities. Let’s connect!
+💡 "Every line of code is a new adventure – let’s build something amazing together!"
