@@ -15,7 +15,6 @@ I'm a **Full-stack Developer** specializing in front-end technologies. I bring i
 - **Others**: Git, GitHub, Figma
 
 ## 📊 GitHub Stats
-![Borhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=borhanrahi&show_icons=true&theme=radical) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=borhanrahi&layout=compact&theme=radical)
 
