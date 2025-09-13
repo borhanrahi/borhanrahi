@@ -20,6 +20,11 @@ I'm a **Full-stack Developer** specializing in front-end technologies. I bring i
 
 ---
 
+## 🚀 Latest Projects:
+- **[AI ATS Checker](https://aiatschecker.com/)** - Free AI-powered resume analysis tool
+
+
+
 ## 🤝 Let's Connect!
 I'm always open to discussing new projects, collaborations, or opportunities to learn and grow. Feel free to reach out to me through any of the platforms below!
 
